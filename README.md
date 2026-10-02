@@ -299,6 +299,6 @@ If any answer is "we don't know," that is where to start.
 
 ---
 
-*Kevin M. Coles is the founder of [Coles Technical Group](https://colestechnicalgroup.com), a technology governance and fractional CIO/CTO consulting firm based in Phoenix, Arizona. He writes weekly at [substack.com/@kevinmcoles](https://substack.com/@kevinmcoles).*
+*Kevin M. Coles is the founder of [Coles Technical Group](https://colestechnicalgroup.com), a technology governance and fractional CIO/CTO consulting firm based in Phoenix, Arizona. He writes weekly at [substack.com/@kevinmcoles](https://substack.com/@kevinmcoles). Also see the [AI Use Decision Record](https://github.com/KevinMColes/ai-use-decision-record).*
 
 *You are free to share and adapt this review for any purpose, including commercial use, provided you give appropriate credit to Kevin M. Coles and link to the license. Suggested credit: "Vendor Dependency Review by Kevin M. Coles, licensed under CC BY 4.0."*
